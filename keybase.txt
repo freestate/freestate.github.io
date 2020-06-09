@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/freestate
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://freestate.github.io
+  * I am freestate (https://keybase.io/freestate) on keybase.
+  * I have a public key ASDJvJHvS63w06NgRNtqedwr-jqr1YpTCXH7HfSq9zRCLgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012001c963e7992e57486c2df33968f3a3bc7f7ef6faf384214cf0ec0aaf46f536940a",
+      "host": "keybase.io",
+      "kid": "0120c9bc91ef4badf0d3a36044db6a79dc2bfa3aabd58a530971fb1df4aaf734422e0a",
+      "uid": "d75c28d547b370b6d424fa075cc89119",
+      "username": "freestate"
+    },
+    "merkle_root": {
+      "ctime": 1591687954,
+      "hash": "f2393c0030a98b36b4f170b87b9772bfb2965413b2ef8be735a5f7899f59ba2dc2c69dd031462d257618910fbe6162d85eff831e2aeb1e2cbc0cd3611a0f0a94",
+      "hash_meta": "4dc5c3292237b0a889786ff25792af8456118b692881f3b3ed431ba5bc7e8032",
+      "seqno": 16599302
+    },
+    "service": {
+      "entropy": "t0qTSh0YjD8A7xjnGUsYUs38",
+      "hostname": "freestate.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1591688015,
+  "expire_in": 504576000,
+  "prev": "5a02ba55f670963f05fea58a0eeb7a48c28c5f31aefb41378cde0ab6a990f099",
+  "seqno": 180,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgybyR70ut8NOjYETbanncK/o6q9WKUwlx+x30qvc0Qi4Kp3BheWxvYWTES5cCzLTEIFoCulX2cJY/Bf6lig7rekjCjF8xrvtBN4zeCrapkPCZxCC6UgS+3+OBsWzV30B3OAgYmPzyXpbTNhPH2CdUMq/OdQIBwqNzaWfEQPpiVN0/pt9LJdvo9/Ffg39vmzLDnvGnuIt2TAv09JnsCyTZUbA4JFlcxo93QL7l9h9VVPOCL1DTicY/jsoFcwmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDbTzQdfDWJjsrfJ22hpJVZsZmbG9sp5jA2HMLWsntUoKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/freestate
+
+==================================================================
